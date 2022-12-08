@@ -3,7 +3,7 @@ services:
     name: sholootgfiletolink
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+    startCommand: python main.py
     repo: https://github.com/sholoomail/stream-cloud.git
     branch: main
     envVars:
