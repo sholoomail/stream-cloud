@@ -13,6 +13,11 @@ demo : [downloader_star_bot](https://t.me/downloader_star_bot)
     
     `docker-compose up`
 
+### Deploy To Render (Paid)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?)
+
+
 * Heroku :
 
     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/musa-42/stream-cloud)
