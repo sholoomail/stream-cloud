@@ -9,9 +9,9 @@ services:
     envVars:
       - key: token 
         sync: false
-      - key: API_ID 
+      - key: api_id 
         sync: false
-      - key: API_HASH 
+      - key: api_hash 
         sync: false
       - key: SESSION_NAME 
         value: sholootgfiletolink
